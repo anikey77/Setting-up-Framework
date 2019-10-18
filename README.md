@@ -9,6 +9,8 @@ Click Download
 Accept licence agreement  
 ![image](https://user-images.githubusercontent.com/55090933/67086295-55e67380-f198-11e9-8914-5f432c529b5b.png)
 
+![image](https://user-images.githubusercontent.com/55090933/67086858-a3afab80-f199-11e9-80ef-f5d2a592d2b3.png)
+
 
 
 
