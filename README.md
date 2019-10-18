@@ -339,12 +339,19 @@ Enter Resources
 ![image](https://user-images.githubusercontent.com/55090933/67130712-21a39f00-f1fa-11e9-9751-2823437ed294.png)
 
 Right click resources
+
 click mark directory as
+
 Click Test resources root
 
 
 ![image](https://user-images.githubusercontent.com/55090933/67131010-fec5ba80-f1fa-11e9-9491-5cca6383f0ac.png)
 
+Create Feature Folder
+
+#Click resources
+
+Enter feature as directory name
 
 ![image](https://user-images.githubusercontent.com/55090933/67131610-3fbece80-f1fd-11e9-8f44-d70f89a4ea16.png)
 
