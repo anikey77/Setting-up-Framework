@@ -112,6 +112,14 @@ Click on settings
 
 ![image](https://user-images.githubusercontent.com/55090933/67099369-bfc14600-f1b5-11e9-9fe8-cfe4369c7573.png)
 
+Add Cucumber as Plugin
+
+Click Plugin
+
+![image](https://user-images.githubusercontent.com/55090933/67100125-06fc0680-f1b7-11e9-89a7-bcc2fe9683f3.png)
+
+
+
 
 
 
