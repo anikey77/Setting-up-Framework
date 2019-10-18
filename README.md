@@ -123,6 +123,13 @@ Click Yes
 Click Restart IDE
 ![image](https://user-images.githubusercontent.com/55090933/67100571-d6689c80-f1b7-11e9-8010-16225b33a31e.png)
 
+Click Restart
+![image](https://user-images.githubusercontent.com/55090933/67100571-d6689c80-f1b7-11e9-8010-16225b33a31e.png
+
+
+
+
+
 
 
 
