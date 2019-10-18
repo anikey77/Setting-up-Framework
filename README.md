@@ -154,6 +154,9 @@ No Issues
 
 STEP 8: Create New Project
 
+![image](https://user-images.githubusercontent.com/55090933/67104279-8e00ad00-f1be-11e9-897c-92e5aeb339f5.png)
+
+
 
 
 
