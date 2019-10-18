@@ -67,11 +67,16 @@ Append;"C:\Program File\Java\jdk-13.0.1\bin;"
 
 ![image](https://user-images.githubusercontent.com/55090933/67095687-77eaf080-f1ae-11e9-8bdb-a646a772e3c7.png)
 
-go back to environment variables
+Go back to environment variables
+
+In system Variables click new... button
 
 ![image](https://user-images.githubusercontent.com/55090933/67090620-829f8880-f1a2-11e9-8376-1452609e647f.png)
 
 ![image](https://user-images.githubusercontent.com/55090933/67090749-d6aa6d00-f1a2-11e9-996c-baa368b078a8.png)
+
+![image](https://user-images.githubusercontent.com/55090933/67096866-e6c94900-f1b0-11e9-92b0-585b8850a584.png)
+
 
 
 
