@@ -1,5 +1,5 @@
 # Setting-up-Framework
-Step 1:Java INstallation
+##Step 1:Java INstallation
 
 Go to https://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 
@@ -23,7 +23,7 @@ Click close
 
 STEP 2: Configure variable environment
 
-Setting Java_Home
+##Setting Java_Home
 
 Advanced System Settings
 
@@ -32,7 +32,7 @@ Type advanced system settings in the searchbox (beside the start button).
 
 Click on the View Advanced System Settings
 
-Setting JAVA_HOME:
+##Setting JAVA_HOME:
 
 Environment Variables
 
@@ -44,7 +44,7 @@ Select advance tab
 
 Click environment variables
 
-Add JAVA_HOME
+###Add JAVA_HOME
 
 In system Variables click new... button
 
@@ -53,6 +53,16 @@ In system Variables click new... button
 ![image](https://user-images.githubusercontent.com/55090933/67090749-d6aa6d00-f1a2-11e9-996c-baa368b078a8.png)
 
 ![image](https://user-images.githubusercontent.com/55090933/67091125-c1820e00-f1a3-11e9-95ee-ce016a5b4ef4.png)
+
+##Update Path:
+
+![image](https://user-images.githubusercontent.com/55090933/67091412-75839900-f1a4-11e9-90a3-acefa06e4150.png)
+
+
+![image](https://user-images.githubusercontent.com/55090933/67091669-29852400-f1a5-11e9-9b13-0f991a3d1420.png)
+
+
+
 
 
 
