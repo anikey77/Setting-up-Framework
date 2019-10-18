@@ -21,9 +21,9 @@ Click close
 
 ![image](https://user-images.githubusercontent.com/55090933/67087296-8cbd8900-f19a-11e9-8ffa-8574f6ec602c.png)
 
-STEP 2: Configure variable environment
+##STEP 2: Configure variable environment
 
-##Setting Java_Home
+###Setting Java_Home
 
 Advanced System Settings
 
@@ -32,7 +32,7 @@ Type advanced system settings in the searchbox (beside the start button).
 
 Click on the View Advanced System Settings
 
-##Setting JAVA_HOME:
+###Setting JAVA_HOME:
 
 Environment Variables
 
@@ -54,12 +54,18 @@ In system Variables click new... button
 
 ![image](https://user-images.githubusercontent.com/55090933/67091125-c1820e00-f1a3-11e9-95ee-ce016a5b4ef4.png)
 
-##Update Path:
+###Update Path:
 
 ![image](https://user-images.githubusercontent.com/55090933/67091412-75839900-f1a4-11e9-90a3-acefa06e4150.png)
 
 
+Append;"C:\Program File\Java\jdk-13.0.1\bin;"
 ![image](https://user-images.githubusercontent.com/55090933/67091669-29852400-f1a5-11e9-9b13-0f991a3d1420.png)
+
+
+##STEP 3: Install Maven
+
+![image](https://user-images.githubusercontent.com/55090933/67095687-77eaf080-f1ae-11e9-8bdb-a646a772e3c7.png)
 
 
 
