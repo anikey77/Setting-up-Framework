@@ -141,7 +141,6 @@ Click OK
 
 
 
-
 ConFirm JDK Home Path
 Click on SDKS
 JAVA_HOME Path should display
@@ -154,7 +153,16 @@ No Issues
 
 STEP 8: Create New Project
 
+Open Intellij
+
+Click Create a New Project
+Click Next
 ![image](https://user-images.githubusercontent.com/55090933/67104279-8e00ad00-f1be-11e9-897c-92e5aeb339f5.png)
+
+ENTER THE PROJECT NAME
+![image](https://user-images.githubusercontent.com/55090933/67110358-79c2ad00-f1ca-11e9-8cae-9df2cb8e7288.png)
+
+
 
 
 
