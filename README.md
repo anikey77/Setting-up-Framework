@@ -356,6 +356,20 @@ Enter feature as directory name
 ![image](https://user-images.githubusercontent.com/55090933/67131610-3fbece80-f1fd-11e9-8f44-d70f89a4ea16.png)
 
 
+#Step 11: Create TestRunner
+
+Right click Java
+
+Click New
+
+Click Java Class
+
+Enter TestRunner
+
+![image](https://user-images.githubusercontent.com/55090933/67132120-7990d480-f1ff-11e9-8ef1-109fc4d54cfa.png)
+
+
+
 
 
 
