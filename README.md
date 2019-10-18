@@ -454,6 +454,28 @@ Under your Project create a file called testng.xml
 
 ![image](https://user-images.githubusercontent.com/55090933/67132764-b9f15200-f201-11e9-9182-6f1c645befc0.png)
 
+TestNG
+
+<?xml version=”1.0″ encoding=”UTF-8″?>
+
+<!DOCTYPE suite SYSTEM “http://testng.org/testng-1.0.dtd”>
+
+<suite name=”BDD Test Suite” verbose=”1″ parallel=”tests” thread-count=”1″ configfailurepolicy=”continue”>
+
+<test name=”Login and Update Profile Test” annotations=”JDK” preserve-order=”true”>
+
+<classes>
+
+<class name=”TestRunner”/>
+
+</classes>
+
+</test>
+
+</suite>
+
+![image](https://user-images.githubusercontent.com/55090933/67133031-f4a7ba00-f202-11e9-81e7-09b502eb9495.png)
+
 
 
 
