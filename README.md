@@ -159,8 +159,12 @@ Click Create a New Project
 Click Next
 ![image](https://user-images.githubusercontent.com/55090933/67104279-8e00ad00-f1be-11e9-897c-92e5aeb339f5.png)
 
+
 ENTER THE PROJECT NAME
 ![image](https://user-images.githubusercontent.com/55090933/67110358-79c2ad00-f1ca-11e9-8cae-9df2cb8e7288.png)
+
+![image](https://user-images.githubusercontent.com/55090933/67110573-fa81a900-f1ca-11e9-882a-153c49af0d23.png)
+
 
 
 
