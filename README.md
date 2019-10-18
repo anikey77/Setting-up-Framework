@@ -79,6 +79,11 @@ In system Variables click new... button
 
 Step 4: Update Path
 
+![image](https://user-images.githubusercontent.com/55090933/67091412-75839900-f1a4-11e9-90a3-acefa06e4150.png)
+
+
+![image](https://user-images.githubusercontent.com/55090933/67097333-ca79dc00-f1b1-11e9-9d14-c5ea146cd457.png)
+
 
 
 
