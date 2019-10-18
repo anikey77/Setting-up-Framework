@@ -446,6 +446,15 @@ public class TestRunner {
 }
 
 
+#Step 12: Create testng.xml
+
+Create testng.xml:
+
+Under your Project create a file called testng.xml
+
+![image](https://user-images.githubusercontent.com/55090933/67132764-b9f15200-f201-11e9-9182-6f1c645befc0.png)
+
+
 
 
 
