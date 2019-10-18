@@ -130,6 +130,10 @@ Click Restart
 
 STEP 7: Setup Default SDK for Projects
 
+Select The Appropriate SDK
+
+Click OK
+
 ![image](https://user-images.githubusercontent.com/55090933/67101876-64de1d80-f1ba-11e9-9d19-454c038a87f3.png)
 
 
