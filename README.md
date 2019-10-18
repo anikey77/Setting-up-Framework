@@ -85,7 +85,7 @@ Step 4: Update Path
 ![image](https://user-images.githubusercontent.com/55090933/67097333-ca79dc00-f1b1-11e9-9d14-c5ea146cd457.png)
 
 
-STEP 4: Install IntelliJ
+STEP 5: Install IntelliJ
 
 Go to http:/www.jetbrains.com/idea/
 
@@ -99,7 +99,7 @@ click the community one
 Save the File and Open it
 
 
-##STEP 5: Configure IntelliJ
+##STEP 6: Configure IntelliJ
 
 Welcom to intellij
 
@@ -126,6 +126,25 @@ Click Restart IDE
 Click Restart
 
 ![image](https://user-images.githubusercontent.com/55090933/67100925-84744680-f1b8-11e9-88a5-0300da3dcb7d.png)
+
+
+STEP 7: Setup Default SDK for Projects
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/55090933/67101444-8a1e5c00-f1b9-11e9-8245-0e1d1cfbdd9e.png)
+
+
+![image](https://user-images.githubusercontent.com/55090933/67101444-8a1e5c00-f1b9-11e9-8245-0e1d1cfbdd9e.png)
+
+
+
+
+
+
+
 
 
 
