@@ -13,6 +13,17 @@ Accept licence agreement
 
 ![image](https://user-images.githubusercontent.com/55090933/67086975-e5d8ed00-f199-11e9-8e12-c4e6c4c61c17.png)
 
+Wait
+
+![image](https://user-images.githubusercontent.com/55090933/67087181-4e27ce80-f19a-11e9-83ed-1e49cffadd05.png)
+
+Click close
+
+![image](https://user-images.githubusercontent.com/55090933/67087296-8cbd8900-f19a-11e9-8ffa-8574f6ec602c.png)
+
+
+
+
 
 
 
