@@ -163,7 +163,15 @@ Click Next
 ENTER THE PROJECT NAME
 ![image](https://user-images.githubusercontent.com/55090933/67110358-79c2ad00-f1ca-11e9-8cae-9df2cb8e7288.png)
 
+ClicK Finish
+
 ![image](https://user-images.githubusercontent.com/55090933/67110573-fa81a900-f1ca-11e9-882a-153c49af0d23.png)
+
+Click Ok
+
+![image](https://user-images.githubusercontent.com/55090933/67110775-6532e480-f1cb-11e9-8ae0-47c8e2c87ba6.png)
+
+
 
 
 
