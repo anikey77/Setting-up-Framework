@@ -86,6 +86,10 @@ Step 4: Update Path
 
 
 STEP 4: Install IntelliJ
+
+Go to http:/www.jetbrains.com/idea/
+
+Click download
 ![image](https://user-images.githubusercontent.com/55090933/67098012-4163a480-f1b3-11e9-8bf0-a2bbf23c1156.png)
 
 click the community one
