@@ -21,6 +21,27 @@ Click close
 
 ![image](https://user-images.githubusercontent.com/55090933/67087296-8cbd8900-f19a-11e9-8ffa-8574f6ec602c.png)
 
+STEP 2: Configure variable environment
+
+Setting Java_Home
+
+Advanced System Settings
+
+Type advanced system settings in the searchbox (beside the start button).
+
+
+Click on the View Advanced System Settings
+
+Setting JAVA_HOME:
+
+Environment Variables
+
+Select advance tab
+
+![image](https://user-images.githubusercontent.com/55090933/67090107-27b96180-f1a1-11e9-9602-27e833835ab3.png)
+
+
+Click environment variables
 
 
 
