@@ -85,6 +85,12 @@ Step 4: Update Path
 ![image](https://user-images.githubusercontent.com/55090933/67097333-ca79dc00-f1b1-11e9-9d14-c5ea146cd457.png)
 
 
+STEP 4: Install IntelliJ
+![image](https://user-images.githubusercontent.com/55090933/67098012-4163a480-f1b3-11e9-8bf0-a2bbf23c1156.png)
+
+
+
+
 
 
 
