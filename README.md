@@ -38,10 +38,19 @@ Environment Variables
 
 Select advance tab
 
+
 ![image](https://user-images.githubusercontent.com/55090933/67090107-27b96180-f1a1-11e9-9602-27e833835ab3.png)
 
 
 Click environment variables
+
+Add JAVA_HOME
+
+In system Variables click new... button
+
+![image](https://user-images.githubusercontent.com/55090933/67090620-829f8880-f1a2-11e9-8376-1452609e647f.png)
+
+
 
 
 
