@@ -102,7 +102,15 @@ Save the File and Open it
 ##STEP 5: Configure IntelliJ
 
 Welcom to intellij
+
 ![image](https://user-images.githubusercontent.com/55090933/67098950-fcd90880-f1b4-11e9-9d22-cce801a01cd4.png)
+
+
+Click Configure dropdown
+
+Click on settings
+
+![image](https://user-images.githubusercontent.com/55090933/67099369-bfc14600-f1b5-11e9-9fe8-cfe4369c7573.png)
 
 
 
