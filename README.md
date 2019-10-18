@@ -306,6 +306,21 @@ Click Ok
 
 
 
+#Step 10: Create Folder Structure
+
+Create a folder under src/test /java
+
+Right Java under src/Test
+
+Click New
+
+Click on Package
+
+
+![image](https://user-images.githubusercontent.com/55090933/67130066-32ebac00-f1f8-11e9-8343-c060be9286a1.png)
+
+
+
 
 
 
