@@ -11,6 +11,8 @@ Accept licence agreement
 
 ![image](https://user-images.githubusercontent.com/55090933/67086858-a3afab80-f199-11e9-80ef-f5d2a592d2b3.png)
 
+![image](https://user-images.githubusercontent.com/55090933/67086975-e5d8ed00-f199-11e9-8e12-c4e6c4c61c17.png)
+
 
 
 
