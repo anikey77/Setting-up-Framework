@@ -491,6 +491,21 @@ TestNG
 
 ![image](https://user-images.githubusercontent.com/55090933/67133339-3422d600-f204-11e9-9b8b-e0468a424661.png)
 
+Click Ok
+
+![image](https://user-images.githubusercontent.com/55090933/67133339-3422d600-f204-11e9-9b8b-e0468a424661.png)
+
+
+#Create RegistrationStep
+Right Click stepdefs/stepDefinitions
+Click New
+Click Java Class
+
+![image](https://user-images.githubusercontent.com/55090933/67133474-de026280-f204-11e9-8a75-642793d1a237.png)
+
+
+
+
 
 
 
