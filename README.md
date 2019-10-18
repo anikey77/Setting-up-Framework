@@ -118,6 +118,11 @@ Click Plugin
 
 ![image](https://user-images.githubusercontent.com/55090933/67100125-06fc0680-f1b7-11e9-89a7-bcc2fe9683f3.png)
 
+Click Yes
+
+![image](https://user-images.githubusercontent.com/55090933/67100418-8984c600-f1b7-11e9-9245-ea2662032ef5.png)
+
+
 
 
 
