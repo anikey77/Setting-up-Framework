@@ -142,13 +142,17 @@ Click OK
 
 
 
-
+ConFirm JDK Home Path
+Click on SDKS
+JAVA_HOME Path should display
 ![image](https://user-images.githubusercontent.com/55090933/67101444-8a1e5c00-f1b9-11e9-8245-0e1d1cfbdd9e.png)
 
 
 No Issues
-
 ![image](https://user-images.githubusercontent.com/55090933/67102855-1762b000-f1bc-11e9-8688-fac9deb7783c.png)
+
+
+STEP 8: Create New Project
 
 
 
