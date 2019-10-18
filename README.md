@@ -124,7 +124,8 @@ Click Restart IDE
 ![image](https://user-images.githubusercontent.com/55090933/67100571-d6689c80-f1b7-11e9-8010-16225b33a31e.png)
 
 Click Restart
-![image](https://user-images.githubusercontent.com/55090933/67100571-d6689c80-f1b7-11e9-8010-16225b33a31e.png
+
+![image](https://user-images.githubusercontent.com/55090933/67100925-84744680-f1b8-11e9-88a5-0300da3dcb7d.png)
 
 
 
