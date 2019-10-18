@@ -326,6 +326,17 @@ Click on Package
 ![image](https://user-images.githubusercontent.com/55090933/67130425-29167880-f1f9-11e9-9cb9-f212b6cf1f57.png)
 
 
+#Create a resource directory
+
+Right Click the Test on src/test
+
+Click New
+
+Click Directory
+
+![image](https://user-images.githubusercontent.com/55090933/67130712-21a39f00-f1fa-11e9-9751-2823437ed294.png)
+
+
 
 
 
