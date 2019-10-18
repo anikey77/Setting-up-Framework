@@ -339,10 +339,6 @@ Enter Resources
 ![image](https://user-images.githubusercontent.com/55090933/67130712-21a39f00-f1fa-11e9-9751-2823437ed294.png)
 
 
-
-![image](https://user-images.githubusercontent.com/55090933/67131188-975c3a80-f1fb-11e9-9bd7-b43c47bb8566.png)
-
-
 ![image](https://user-images.githubusercontent.com/55090933/67131010-fec5ba80-f1fa-11e9-9491-5cca6383f0ac.png)
 
 
