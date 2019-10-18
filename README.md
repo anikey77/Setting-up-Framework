@@ -484,6 +484,14 @@ TestNG
 ![image](https://user-images.githubusercontent.com/55090933/67133031-f4a7ba00-f202-11e9-81e7-09b502eb9495.png)
 
 
+#Create Feature File
+
+![image](https://user-images.githubusercontent.com/55090933/67133244-e3ab7880-f203-11e9-9fe2-6ee21cf93ad8.png)
+
+
+![image](https://user-images.githubusercontent.com/55090933/67133339-3422d600-f204-11e9-9b8b-e0468a424661.png)
+
+
 
 
 
